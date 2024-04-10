@@ -27,4 +27,4 @@ Pick your model
 
 Chat with your room 
 
-This is good for 'small' rooms (messages capped at 500) for larger rooms (5000 message cap) with deeper automated AI insights look into Webex Room RAPTOR 
+This is good for 'small' rooms (messages capped at 500) for larger rooms (2500 message cap) with deeper automated AI insights look into Webex Room RAPTOR 
