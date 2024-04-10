@@ -105,7 +105,7 @@ class ChatWithWebexRoom:
         answer = response.get('answer', 'No answer found.')
 
         # Format the AI's response
-        ai_response = f"Cisco IOS XE: {answer}"
+        ai_response = f"Webex Room: {answer}"
         self.conversation_history.append({"text": ai_response, "sender": "bot"})
 
         # Update the Streamlit session state by appending new history with both user prompt and AI response
